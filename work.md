@@ -14,4 +14,10 @@ NSDictionary是不可变字典，创建时就确定值，创建完成不可修�
 <br>
 2019-5-14<br>
 修改导航栏标题，使用vc.navigationItem.title=@""，其中vc是视图控制器<br>
+<br>
+2019-5-20<br>
+进入BIOS – Security – Secure Boot Control设为Disabled。<br>
+进入BIOS – Boot – Lunch CSM设为Enabled。然后按F10保存退出。<br>
+
+
 
