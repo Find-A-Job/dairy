@@ -18,6 +18,7 @@ NSDictionary是不可变字典，创建时就确定值，创建完成不可修�
 2019-5-20<br>
 进入BIOS – Security – Secure Boot Control设为Disabled。<br>
 进入BIOS – Boot – Lunch CSM设为Enabled。然后按F10保存退出。<br>
-
-
-
+<br>
+华硕主板自带一个软件，Q-installer，自带网卡驱动，以及自动下载集成在主板上的其他硬件驱动<br>
+<br>
+<br>
