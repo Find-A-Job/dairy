@@ -22,12 +22,13 @@ NSDictionary是不可变字典，创建时就确定值，创建完成不可修�
 华硕主板自带一个软件，Q-installer，自带网卡驱动，以及自动下载集成在主板上的其他硬件驱动<br>
 <br>
 2019-5-21<br>
-+ 奇怪的事件之UIButton和tap手势优先级<br>
+奇怪的事件之UIButton和tap手势优先级 <br>
 模拟器---根视图控制器是UITabbarController,加入了tap手势，在其中一个tab视图下有UIButton按钮，点击按钮，先触发的是按钮事件，后触发手势事件<br>
-按照苹果官方说明文档，应该是手势的优先级大于responder<br>
+按照苹果官方说明文档，应该是手势的优先级大于responder
 <br>
 <br>
-<br>
+2019-5-22<br>
+win10系统10240版本无法更新<br>
 <br>
 <br>
 <br>
