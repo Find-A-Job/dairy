@@ -33,8 +33,18 @@ win10系统10240版本无法更新<br>
 2019-5-24<br>
 ios NSDictionary 存储无法识别的类型时，会断点报错。当接受从网络端发来的消息时需要注意，可以让后台修改返回数据类型<br>
 <br>
-<br>
-<br>
-<br>
+2019-5-29<br>
+iOS， 网络请求是异步执行。viewdidload和viewwillappear和viewdidappear顺序执行，无论在那个方法内进行网络请求，都不会阻塞这三个方法执行<br>
+懒加载， <br>
+```
+-(nsstring *)mystring{
+    if(!_mystring)
+    {
+        _mystring=[[nsstring alloc] init];
+    }
+    
+    return _mystring;
+}
+```
 <br>
 <br>
