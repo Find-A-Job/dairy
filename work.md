@@ -53,8 +53,8 @@ iOS， 网络请求是异步执行。viewdidload和viewwillappear和viewdidappea
 2019-6-4<br>
 ios的线程，分4种，分别是pthread，nsthread， GCD， NSOperation。这里要注意的是，如果有使用nsurlsession实现网络方面的功能， 则在创建线程时需要使用第四种方法， 因为nsurlsession的一个方法里有使用NSOperation相关的作为参数， 使用NSOperation可以配置该方法在那个线程中执行<br>
 <br>
-<br>
-<br>
+2019-6-5<br>
+在使用通知的时候，需要确定接收通知是否会进行UI操作，如果需要操作UI，则必须在主线程发送通知<br>
 <br>
 <br>
 <br>
