@@ -56,8 +56,8 @@ ios的线程，分4种，分别是pthread，nsthread， GCD， NSOperation。这
 2019-6-5<br>
 在使用通知的时候，需要确定接收通知是否会进行UI操作，如果需要操作UI，则必须在主线程发送通知<br>
 <br>
-<br>
-<br>
+2019-6-6<br>
+创建视图之后，如果数据更新了，记得要‘刷新’一下视图。比如tableview，数据有更新，那就需要使用reloaddata<br>
 <br>
 <br>
 <br>
