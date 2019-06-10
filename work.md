@@ -59,8 +59,8 @@ ios的线程，分4种，分别是pthread，nsthread， GCD， NSOperation。这
 2019-6-6<br>
 创建视图之后，如果数据更新了，记得要‘刷新’一下视图。比如tableview，数据有更新，那就需要使用reloaddata<br>
 <br>
-<br>
-<br>
+2019-6-10<br>
+nsmutabledictionary有一个实例方法addEntriesFromDictionary，是从一个字典拷贝所有值到另一个字典.nsdictionary在初始化时，使用initwithdictionary也可以达到同样的效果<br>
 <br>
 <br>
 <br>
