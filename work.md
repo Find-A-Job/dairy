@@ -62,9 +62,9 @@ ios的线程，分4种，分别是pthread，nsthread， GCD， NSOperation。这
 2019-6-10<br>
 nsmutabledictionary有一个实例方法addEntriesFromDictionary，是从一个字典拷贝所有值到另一个字典.nsdictionary在初始化时，使用initwithdictionary也可以达到同样的效果<br>
 <br>
-<br>
-<br>
-<br>
+2019-7-9<br>
+系统装完后会缺少c++运行库，部分软件依赖这个库，需要去下载微软的基础运行库<br>
+英伟达显卡驱动，里头有个软件，CTRL+alt+z可以呼出，这个软件和ps的快捷键有冲突，且会造成右下角的遮挡（一个麦克风图标和一个刷新图标）<br>
 <br>
 <br>
 <br>
