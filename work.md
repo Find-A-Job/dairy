@@ -67,7 +67,7 @@ nsmutabledictionary有一个实例方法addEntriesFromDictionary，是从一个�
 英伟达显卡驱动，里头有个软件，CTRL+alt+z可以呼出，这个软件和ps的快捷键有冲突，且会造成右下角的遮挡（一个麦克风图标和一个刷新图标）<br>
 <br>
 2019-7-9<br>
-华硕主板，BIOS设置显卡，在【北桥】里找到【显示设备】，选择cpu（核显），或自动(根据视频线接口的位置自动选择)<br>
+华硕主板，BIOS设置显卡，在【南桥】(South Bridge Configyration)里找到【显示设备】，选择cpu（核显），或自动(根据视频线接口的位置自动选择)<br>
 <br>
 <br>
 <br>
